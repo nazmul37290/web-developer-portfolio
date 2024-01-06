@@ -142,3 +142,26 @@ main {
   color: #474747;
   font-weight: 700;
 }
+
+/* what-i-do section style  */
+
+#what-i-do-description {
+  padding: 30px 150px;
+}
+
+.skills-container {
+  display: flex;
+  gap: 30px;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.skill {
+  padding: 30px;
+}
+.skill-title {
+  margin-top: 30px;
+}
+
+.skill-description {
+  margin-top: 30px;
+}
